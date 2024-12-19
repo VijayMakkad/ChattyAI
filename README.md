@@ -39,7 +39,7 @@ git clone https://github.com/your-username/ChattyAI.git
 cd ChattyAI
 ```
 
-### **2. Set Up Environment**
+### **2. Setting Up Environment**
 
 1. Create a virtual environment:
    ```bash
